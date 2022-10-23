@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phatdoyle
 - 👀 I’m interested in Ethereum
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate Ethereum protocols. 
+- 💞️ I’m looking to collaborate with Ethereum protocols. 
 - 📫 How to reach me?
 
 <!---
